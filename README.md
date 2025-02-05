@@ -48,21 +48,20 @@ Follow these steps to run the project locally on your machine.
    ```
    Navigate to the project directory:
 
-bash
-Copy
+```bash
 cd todo-list-react
+```
 Install dependencies:
-
-bash
-Copy
+```bash
 npm install
+```
 Run the development server:
-
-bash
-Copy
+```bash
 npm start
+```
 Open the app:
 Open your browser and go to http://localhost:3000 to view the app.
+
 
 How to Use
 - Add a Task:
@@ -128,10 +127,10 @@ git push origin feature/YourFeatureName
 This project was inspired by and learned from the Web Dev Simplified YouTube channel. Special thanks to Kyle Cook for his clear and concise tutorials that helped me understand React.js better.
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out:
+If you have any questions or suggestions, feel free to reach out:  
 
-Riman Maharjan
-Email: rimanmaharjan7@gmail.com
+Riman Maharjan  
+Email: rimanmaharjan7@gmail.com  
 GitHub: @riman7
 
 Happy coding! 🚀
