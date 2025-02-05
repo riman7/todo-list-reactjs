@@ -124,16 +124,14 @@ git push origin feature/YourFeatureName
 
 - Add a description of your changes and submit the pull request.
 
-Credits
+## Credits
 This project was inspired by and learned from the Web Dev Simplified YouTube channel. Special thanks to Kyle Cook for his clear and concise tutorials that helped me understand React.js better.
 
-Contact
+## Contact
 If you have any questions or suggestions, feel free to reach out:
 
 Riman Maharjan
-
 Email: rimanmaharjan7@gmail.com
-
 GitHub: @riman7
 
 Happy coding! 🚀
