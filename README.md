@@ -41,12 +41,11 @@ Follow these steps to run the project locally on your machine.
 - Node.js and npm installed on your machine.
 
 ### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/todo-list-react.git
-   ```
-   Navigate to the project directory:
+    **Clone the repository**:
+    ```bash
+    git clone https://github.com/your-username/todo-list-react.git
+    ```
+    Navigate to the project directory:
 
     ```bash
     cd todo-list-react
